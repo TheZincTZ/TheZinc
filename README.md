@@ -1,7 +1,7 @@
 # TheZinc
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="linkedin.com/in/ho-zhi-hao"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/ho-zhi-hao"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/thezinc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -19,7 +19,7 @@ I am a Cybersecurity Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🔭 I’m currently as a Software Developer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Cybersecurity Industry hoping to find ways to grow. 
 - ⚡ In my free time I love to do boxes in TryHackMe and HackTheBox, and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-TheZinc-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ho-zhi-hao)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-TheZinc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho-zhi-hao)
 
 ---
 
