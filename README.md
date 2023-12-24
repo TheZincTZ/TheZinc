@@ -16,7 +16,7 @@
 
 I am a Cybersecurity Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 
-- 🔭 I’m currently as a Software Developer and contributing to frontend and backend for building web applications.
+- 🔭 I’m currently as a Software Developer and contributing to frontend and backend for building web applications at A*Star ARTC.
 - 🌱 Exploring Cybersecurity Industry hoping to find ways to grow. 
 - ⚡ In my free time I love to do boxes in TryHackMe and HackTheBox, and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-TheZinc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho-zhi-hao)
